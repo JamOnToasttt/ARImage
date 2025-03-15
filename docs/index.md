@@ -1,2 +1,2 @@
-![Alert](./assets/images/alertPhone.png)
+![Alert](./assets/images/alertPhone.jpg)
 
